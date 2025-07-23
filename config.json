@@ -1,7 +1,7 @@
 {
     "Siti": {
            "StreamingCommunity": {
-               "url": "https://streamingcommunityz.city",
+               "url": "https://streamingcommunityz.bio",
                "SC_ForwardProxy": "0",
                "SC_PROXY": "0",
                "VX_ForwardProxy": "0",
@@ -30,7 +30,7 @@
               "enabled":"1"
           },
           "CB01":{
-              "url":"https://cb01net.live",
+              "url":"https://cb01net.info",
               "CB_PROXY":"0",
               "CB_ForwardProxy":"0",
               "MX_ForwardProxy":"0",
